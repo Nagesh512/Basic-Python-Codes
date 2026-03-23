@@ -24,7 +24,8 @@ print(list)
 list.pop(2)
 print(list)
 
-list.count()
+list.count(2) #counts occurence of element
+print(list.count(2))
 
 [1, 2, 3]
 [2, 1, 3, 4]

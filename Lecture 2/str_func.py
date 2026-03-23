@@ -2,6 +2,7 @@
 # str.endsWith("er.") #returns true if string ends with substr
 str = "i am studying python from apna College"
 print(str.endswith("python"))
+print(str.startswith("python"))
 
 # str.capitalize( ) #capitalizes 1st char
 print(str.capitalize())

@@ -1,5 +1,5 @@
 # Arithmetic Operators ( + , - , * , / , % , ** )
-# a = 4
+a = 4
 # b = 2
 # print(a + b)
 # print(a - b)
@@ -31,8 +31,8 @@
 # a %= 10
 # print(a)
 # a=10
-# a **= 2
-# print(a)
+a **= 2
+print(a)
 
 # Logical Operators ( not , and , or )
 print(not False)

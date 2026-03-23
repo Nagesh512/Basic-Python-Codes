@@ -1,6 +1,7 @@
 print("Hello, World! 123", "BHags", 67)
 print(23+89)
 
+print()
 # variables
 name = "Bhags"
 age = 23

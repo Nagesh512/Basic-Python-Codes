@@ -2,7 +2,7 @@ age = 17
 
 if(age > 18):
     print("Can Vote and Apply for lisence")
-
+    
 else:
     print("Cant vote")
 

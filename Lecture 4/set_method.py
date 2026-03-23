@@ -21,7 +21,7 @@ Collection.pop() #we cannot write it without print function
 print(Collection)     
 
 
-#Unhashable value(values can be change or mutable) --> immutable value   (tuple, set)
+#Unhashable value(values can not be change or immutable) --> immutable value   (tuple, set)
 # Hashable value  --> mutable value(list, dictionary)
 
 set1 = {1, 2 , 3 ,5}

@@ -33,10 +33,20 @@
 
 
 # WAF to convert USD to INR.
-inr = int(input("Enter USD "))
+# inr = int(input("Enter USD "))
 
-def doller_to_inr(usd):
-    inr = 83.5 * usd
-    print(usd  ,"USD = ", inr)
+# def doller_to_inr(usd):
+#     inr = 83.5 * usd
+#     print(usd  ,"USD = ", inr)
 
-doller_to_inr(inr)
+# doller_to_inr(inr)
+
+
+def even_or_odd(num):
+    if(num % 2 == 0):
+        print("Even number")
+    else:
+        print("Odd Number")
+
+even_or_odd(10)
+    
